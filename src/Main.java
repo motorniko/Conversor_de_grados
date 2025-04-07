@@ -6,6 +6,6 @@ public class Main {
         int gradosFahrenheit = (int)(gradosCelsius * 1.8) + 32;
 
         System.out.println("La temperatura en grados fahrenheit es: " + gradosFahrenheit);
-        
+
     }
 }
