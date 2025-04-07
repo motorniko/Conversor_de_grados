@@ -3,7 +3,7 @@ public class Main {
 
 
         double gradosCelsius = 25.0;
-        double gradosFahrenheit = (gradosCelsius * 1.8) + 32;
+        int gradosFahrenheit = (int)(gradosCelsius * 1.8) + 32;
 
         System.out.println("La temperatura en grados fahrenheit es: " + gradosFahrenheit);
 
